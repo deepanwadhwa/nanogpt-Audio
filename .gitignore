@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+out-shakespeare-audio/
+# Virtual environments
+.venv
+.DS_Store
+shakespeare.wav
